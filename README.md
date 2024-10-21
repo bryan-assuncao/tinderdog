@@ -8,6 +8,7 @@ TinderDog é uma aplicação web inspirada na popularidade de aplicativos de nam
 
 - **HTML5**: Estrutura do conteúdo da aplicação.
 - **CSS3**: Estilização e layout da página.
+- **Bootstrap**: Framework CSS utilizado para responsividade e design.
 - **JavaScript**: Lógica da aplicação e interatividade.
 - **GitHub Pages**: Hospedagem gratuita do projeto.
 
